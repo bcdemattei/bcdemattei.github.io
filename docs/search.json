@@ -2,14 +2,28 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Braden DeMattei",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am the lab & data manager for the Hampton Lab at Carnegie Science. Our work mainly focuses on the ecology & carbon cycles of lakes under ice and winter conditions, as well as rotifer ecology and egg development! In the past, I have researched mammalian zoonotic pathology in Los Angeles, Polynesian coral reefs, California Central Valley salmon population ecology, and Scottish marine mixed fisheries ecology. I love creating data management flows & protocols, analyzing & visualizing data, and making the occasional website or two.\nI will be applying to PhD programs for a Fall 2025 start. I hope to work on exploring and developing machine learning & computer vision tools that can be applied to aquatic ecological problems and questions. Whether its developing algorithms that can detect the behavior & interaction of two species, getting more accurate California Central Valley salmon population estimates, or cracking down on illegal fishing using remote sensing, I would relish the opportunity to develop tools to help my fellow ecologist thrive and succeed!\nCurrent Professional Interests:\n\nComputer Vision & Machine Learning\n\n\nRotifer predator-prey dynamics\n\n\nOpen-source, simple, easy data management workflows\n\n\nCreating fun, little projects focused on computer vision\n\n\n\n\nWhen I’m not creating data entry and management workflows or tending to my rotifer children, I’m trying to learn some new hobby or skill! In the past I’ve boxed, performed improv, done a few stand up sets, and crocheted a scarf or two. When I’m not being a cool, productive guy, you can find me curled up on the couch with my three amazing cats watching some weird show I found out about online or playing some video games with my wonderful partner."
+  },
+  {
+    "objectID": "index.html#professional",
+    "href": "index.html#professional",
+    "title": "About",
+    "section": "",
+    "text": "I am the lab & data manager for the Hampton Lab at Carnegie Science. Our work mainly focuses on the ecology & carbon cycles of lakes under ice and winter conditions, as well as rotifer ecology and egg development! In the past, I have researched mammalian zoonotic pathology in Los Angeles, Polynesian coral reefs, California Central Valley salmon population ecology, and Scottish marine mixed fisheries ecology. I love creating data management flows & protocols, analyzing & visualizing data, and making the occasional website or two.\nI will be applying to PhD programs for a Fall 2025 start. I hope to work on exploring and developing machine learning & computer vision tools that can be applied to aquatic ecological problems and questions. Whether its developing algorithms that can detect the behavior & interaction of two species, getting more accurate California Central Valley salmon population estimates, or cracking down on illegal fishing using remote sensing, I would relish the opportunity to develop tools to help my fellow ecologist thrive and succeed!\nCurrent Professional Interests:\n\nComputer Vision & Machine Learning\n\n\nRotifer predator-prey dynamics\n\n\nOpen-source, simple, easy data management workflows\n\n\nCreating fun, little projects focused on computer vision"
+  },
+  {
+    "objectID": "index.html#personal",
+    "href": "index.html#personal",
+    "title": "About",
+    "section": "",
+    "text": "When I’m not creating data entry and management workflows or tending to my rotifer children, I’m trying to learn some new hobby or skill! In the past I’ve boxed, performed improv, done a few stand up sets, and crocheted a scarf or two. When I’m not being a cool, productive guy, you can find me curled up on the couch with my three amazing cats watching some weird show I found out about online or playing some video games with my wonderful partner."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "CV",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   }

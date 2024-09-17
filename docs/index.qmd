@@ -1,11 +1,28 @@
 ---
-title: "Braden DeMattei"
+title: ""
+toc: false
 ---
 
-This is a Quarto website.
+# About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](images/bcd_hs.jpeg){fig-alt="Braden Charles DeMattei looking good" width="450px" fig-aling="center"}
 
-```{r}
-1 + 1
-```
+## Professional
+
+I am the lab & data manager for the [Hampton Lab](https://hampton-lab.github.io/Hampton-Lab) at Carnegie Science. Our work mainly focuses on the ecology & carbon cycles of lakes under ice and winter conditions, as well as rotifer ecology and egg development! In the past, I have researched mammalian zoonotic pathology in Los Angeles, Polynesian coral reefs, California Central Valley salmon population ecology, and Scottish marine mixed fisheries ecology. I love creating data management flows & protocols, analyzing & visualizing data, and making the occasional website or two.
+
+I will be applying to PhD programs for a Fall 2025 start. I hope to work on exploring and developing machine learning & computer vision tools that can be applied to aquatic ecological problems and questions. Whether its developing algorithms that can detect the behavior & interaction of two species, getting more accurate California Central Valley salmon population estimates, or cracking down on illegal fishing using remote sensing, I would relish the opportunity to develop tools to help my fellow ecologist thrive and succeed!
+
+Current Professional Interests:
+
+> Computer Vision & Machine Learning
+
+> Rotifer predator-prey dynamics
+
+> Open-source, simple, easy data management workflows
+
+> Creating fun, little projects focused on computer vision
+
+## Personal
+
+When I'm not creating data entry and management workflows or tending to my rotifer children, I'm trying to learn some new hobby or skill! In the past I've boxed, performed improv, done a few stand up sets, and crocheted a scarf or two. When I'm not being a cool, productive guy, you can find me curled up on the couch with my three amazing cats watching some weird show I found out about online or playing some video games with my wonderful partner.

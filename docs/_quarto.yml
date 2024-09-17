@@ -1,19 +1,31 @@
 project:
   type: website
+  output-dir: "/Users/bcdemattei/Desktop/Projects/site/docs"
 
 website:
-  title: "site"
+  title: "Braden Charles DeMattei, MSc."
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
 
+  page-footer:
+      right:
+        - icon: twitter
+          href: https://twitter.com/tsoog_boy
+        - icon: github
+          href: https://github.com/bcdemattei
+          aria-label: BC DeMattei GitHub
+          
+  
+      center: | 
+        Background Image of Rhinoglena sp. taken by BC DeMattei
+    
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-editor: visual
+    linkcolor: white
 

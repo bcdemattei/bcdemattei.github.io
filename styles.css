@@ -27,7 +27,7 @@ blockquote p {
 body {
   color: white;
   background:linear-gradient(rgba(0,0,0,0.58), rgba(0,0,0,0.58)),
-    url("images/rotifer.jpg");
+    url("images/rotifer.JPG");
   background-size: auto;
   background-repeat: repeat;
   /*background-position: center center;*/
